@@ -1,5 +1,7 @@
 {
   "name": "angular-ionic-recipe",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

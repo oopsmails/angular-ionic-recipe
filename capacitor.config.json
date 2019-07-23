@@ -1,0 +1,10 @@
+{
+  "appId": "com.oopsmails.ionic.recipe",
+  "appName": "angular-ionic-recipe",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8100"
+  }
+}
