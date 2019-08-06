@@ -1,11 +1,12 @@
 # angular-ionic-recipe
 
-https://www.youtube.com/watch?v=r2ga-iXS5i4
-
-
 ## Getting Start:
 
 install npm ...  
+
+npm install -g @angular/cli@7.2.2
+
+npm install -g ionic
 
 - Create project, through \temp folder, if already having github project.
 
@@ -49,5 +50,7 @@ Now you can run npx cap open android to launch Android Studio
 
 - `ionic capacitor run ios -l`
 
+### Thanks to: 
 
+https://www.youtube.com/watch?v=r2ga-iXS5i4
 
